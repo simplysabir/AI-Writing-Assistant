@@ -29,7 +29,7 @@ npm install next react react-dom
     
 Now create an `.env` file in the root directory
 ```env
-OPENAI_API_KEYS=Paste the Your API Key from the Open AI Website.
+OPENAI_API_KEY=Paste the Your API Key from the Open AI Website.
 ```
 
 Now, run this
