@@ -18,7 +18,8 @@ if you like this project, kindly give it a star.
 
 ## How to Use
 
-It is very simple just visit the website and simply give the title of your blog as a prompt. the blog will be generated in seconds.
+If you wanted to use it. you have to install it first. installation guide is given below. my credit is expired so now you have to do it for yourself means installation.
+
 ## Installation
 
 As this project is built using next so you have to install it.
