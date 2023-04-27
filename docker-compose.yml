@@ -7,7 +7,7 @@ services:
     image: ai-writing-assistant
     container_name: ai-assistant
     environment:
-      OPENAI_API_KEY: "sk-fWY75n1TMkS76PBT3BlbkFJiY0HoJrRGNMd2x46AfqX"
+      OPENAI_API_KEY: "YOUR_API_KEY"
     ports:
       - 3001:3000
 
