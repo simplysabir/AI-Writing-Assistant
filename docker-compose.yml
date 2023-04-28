@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  ai-writing-assistant:
+    build:
+        context: .
+        dockerfile: Dockerfile
+    image: ai-writing-assistant
+    container_name: ai-assistant
+    environment:
+      OPENAI_API_KEY: "YOUR_API_KEY"
+    ports:
+      - 3001:3000
+
