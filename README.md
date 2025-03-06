@@ -48,7 +48,7 @@ and Boom , it will be up and running !!!
 
 ## Support
 
-For support, Kindly message me on [instagram](https://instagram.com/malik_9136)
+For support, Kindly message me on [instagram](https://instagram.com/simplysabir)
 
 ## 🚀 About Me
 My Name is Sabir Khan and I'm a Undergrad Student of Computer Science From Mumbai. I Make Crazy Projects Frequently, If you like any of my work do give it a star and follow to me.
